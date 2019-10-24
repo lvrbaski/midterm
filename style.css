@@ -1,0 +1,53 @@
+.row1{ background-image: url(top.jpg);
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+height: 500px;}
+.div{ display: block;}
+.topleft{ font-size: 50px; font-style: black; width: 100%; display: inline-flex;padding: 10px;;}
+.logos{ align-content: right ; display: inline-flex;}
+.topcenter{ font-size: 90px; text-align-last: center; font-weight: 700;
+position: relative; top: 1.8em; letter-spacing: 0.47em }
+
+.row2{/* "Berlin combines the culture of New York, the traffic system of Tokyo, the nature of Seattle, and the historical treasures of, well, Berlin" - 2004 */
+    background-color: black;
+    
+    font-family: Crimson Pro;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 20px;;
+    }
+
+.hotels{ font-size: 50px;}
+.hotels:hover{text-decoration: underline;}
+.row3{
+    padding: 5%;
+    font-size: 80px;
+    background-image: url(booknow.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 400px;
+    width:;
+    background-color: red;      
+}
+.book:hover{color: orange; border-bottom: solid;}
+.row4{
+    display: flex; align-content: space-around; width: 100%;
+    background-color: orange;
+}
+.container{width:  100%;}
+
+.description{ margin: 20px; font-size: 20px; font-weight: 700;}
+.imag{ margin: 20px;}
+
+.par{ padding: 20px; font-size: 25px;;}
+
+.block{ padding: 10px; font-size: 20px;color: black;}
+.blocks{ padding: 10px; font-size: 30px; color:black;}
+.anc{ color: black;}
+
+.imag:hover{ }
